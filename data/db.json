@@ -1,0 +1,55 @@
+{
+  "users": [
+    {
+      "id": "user1",
+      "password": "MTIzNA==",
+      "roles": [
+        "USER"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1c2VyMSIsImlhdCI6MTUxNjIzOTAyMiwiZXhwIjoxNTE2MjM5MDIyLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0Ojg4ODgvYXV0aCIsIm5iZiI6MTUxNjIzOTAyMiwiZmlyc3RuYW1lIjoiQWNocmFmIiwibGFzdG5hbWUiOiJUQUhSQU9VSSIsImVtYWlsIjoidGFocmFvdWlhY2hyYWYxQGdtYWlsLmNvbSIsInJvbGVzIjpbIlVTRVIiXX0.OQq8pkiGfFNol5r1R5uZUge5YWIu5CkxqM4tpAMH--I"
+    },
+    {
+      "id": "user2",
+      "password": "MTIzNA==",
+      "roles": [
+        "USER"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1c2VyMiIsImlhdCI6MTUxNjIzOTAyMiwiZXhwIjoxNTE2MjM5MDIyLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0Ojg4ODgvYXV0aCIsIm5iZiI6MTUxNjIzOTAyMiwiZmlyc3RuYW1lIjoiQWNocmFmIiwibGFzdG5hbWUiOiJUQUhSQU9VSSIsImVtYWlsIjoidGFocmFvdWlhY2hyYWYxQGdtYWlsLmNvbSIsInJvbGVzIjpbIlVTRVIiXX0.gfG9tMCE5930SqW1MDfVEAMrO4FM1A1y3ek3qSTV8Vw"
+    },
+    {
+      "id": "admin",
+      "password": "MTIzNA==",
+      "roles": [
+        "USER",
+        "ADMIN"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhZG1pbiIsImlhdCI6MTUxNjIzOTAyMiwiZXhwIjoxNTE2MjM5MDIyLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0Ojg4ODgvYXV0aCIsIm5iZiI6MTUxNjIzOTAyMiwiZmlyc3RuYW1lIjoiQWNocmFmIiwibGFzdG5hbWUiOiJUQUhSQU9VSSIsImVtYWlsIjoidGFocmFvdWlhY2hyYWYxQGdtYWlsLmNvbSIsInJvbGVzIjpbIlVTRVIiLCJBRE1JTiJdfQ.CQYr7g7H8-J_gqkt32TsEuZNirXtmX5D94X9fxb_mL8"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "Computer",
+      "price": "5500",
+      "checked": true
+    },
+    {
+      "id": "2",
+      "name": "Printer",
+      "price": 3500,
+      "checked": true
+    },
+    {
+      "id": "4",
+      "name": "TEST",
+      "price": "4500",
+      "checked": false
+    },
+    {
+      "id": "5",
+      "name": "TT",
+      "price": "777",
+      "checked": true
+    }
+  ]
+}
